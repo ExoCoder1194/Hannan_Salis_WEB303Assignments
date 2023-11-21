@@ -1,0 +1,58 @@
+[
+    {
+        "firstName": "Billy",
+        "lastName": "Butcher",
+        "alias": "Butcher",
+        "superPower": "Expert Combatant",
+        "teamAffiliation": "The Boys",
+        "firstAppearance": "The Boys #1 (2006)"
+    },
+    {
+        "firstName": "Hughie",
+        "lastName": "Campbell",
+        "alias": "Wee Hughie",
+        "superPower": "Teleportation",
+        "teamAffiliation": "The Boys",
+        "firstAppearance": "The Boys #2 (2006)"
+    },
+    {
+        "firstName": "Annie",
+        "lastName": "January",
+        "alias": "Starlight",
+        "superPower": "Light Manipulation",
+        "teamAffiliation": "The Seven",
+        "firstAppearance": "The Boys #3 (2006)"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Gillman",
+        "alias": "Homelander",
+        "superPower": "Superhuman Strength, Flight, Laser Eyes",
+        "teamAffiliation": "The Seven",
+        "firstAppearance": "The Boys #3 (2006)"
+    },
+    {
+        "firstName": "Marvin",
+        "lastName": "Milk",
+        "alias": "Mother's Milk",
+        "superPower": "Expert Combatant",
+        "teamAffiliation": "The Boys",
+        "firstAppearance": "The Boys #2 (2006)"
+    },
+    {
+        "firstName": "Kimiko",
+        "lastName": "Miyashiro",
+        "alias": "The Female",
+        "superPower": "Superhuman Strength",
+        "teamAffiliation": "The Boys",
+        "firstAppearance": "The Boys #2 (2006)"
+    },
+    {
+        "firstName": "Maggie",
+        "lastName": "Shaw",
+        "alias": "Queen Maeve",
+        "superPower": "Superhuman Strength, Durability",
+        "teamAffiliation": "The Seven",
+        "firstAppearance": "The Boys #3 (2006)"
+    }
+]
